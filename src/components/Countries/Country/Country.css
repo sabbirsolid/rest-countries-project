@@ -1,6 +1,10 @@
 .country{
     border: 5px solid skyblue;
-    margin: 15px;
-    padding: 15px;
     border-radius: 15px;
+}
+.visited{
+    background-color: gray;
+}
+.non-visited{
+    background-color: black;
 }
